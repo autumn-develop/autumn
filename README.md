@@ -59,7 +59,7 @@ Global structure
 - **Execution** = Suites executions
 
 
-Backend 
+Backend Architecture
 --
 ![Backend](./docs/backend.jpg?raw=true "Automation Pillars")
 
@@ -93,7 +93,6 @@ Backend
 
 - [rpp-automation-ci-cd-lib](https://github.com/rappiinc/rpp-automation-ci-cd-lib): This artifact helps to package automation scripts into jars files, also register the automation project metadata in `rpp-auto-testcase-ms`
 - [rpp-automation-common](https://github.com/rappiinc/rpp-automation-common): This project has the template structure to work with the solution, contains the main classes to execute  your automation test scripts, it helps to share useful automation scripts and utilities with the team.
-
 
 
 ## License
