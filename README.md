@@ -95,6 +95,10 @@ Backend Architecture
 - [rpp-automation-common](https://github.com/rappiinc/rpp-automation-common): This project has the template structure to work with the solution, contains the main classes to execute  your automation test scripts, it helps to share useful automation scripts and utilities with the team.
 
 
+**Wiki**
+
+Please checkout the [wiki](https://github.com/autumn-develop/autumn/wiki) to have a happy onboarding.
+
 ## License
 
 Autumn is Open Source software released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
