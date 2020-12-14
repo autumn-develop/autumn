@@ -101,7 +101,7 @@ Please checkout the [wiki](https://github.com/autumn-develop/autumn/wiki) to hav
 
 **Credits**
 
-Special thanks to [Juan Carlos Duarte](https://github.com/autumn-develop), [Mario Teran](https://github.com/autumn-develop)  and [Miguel Cervantes](https://github.com/Ingenator)
+Special thanks to [Juan Carlos Duarte](https://github.com/autumn-develop), [Mario Teran](https://github.com/marte876) and [Miguel Cervantes](https://github.com/Ingenator)
 
 ## License
 
