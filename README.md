@@ -64,8 +64,7 @@ Backend Architecture
 ![Backend](./docs/backend.jpg?raw=true "Automation Pillars")
 
 
-**Microservice Repositories**
-
+**Microservice Repositories **
 
 - [rpp-auto-gateway-api](https://github.com/rappiinc/rpp-auto-gateway-api]): API entry point, all the API endpoints are consumed using this gateway. 
 - [rpp-auto-test-ms](https://github.com/rappiinc/rpp-auto-test-ms): Run execution suites in devices.
@@ -80,6 +79,17 @@ Backend Architecture
 - [rpp-auto-suite-ms](https://github.com/rappiinc/rpp-auto-suite-ms): Stores automation suites composed by n automation projects.
 - [rpp-auto-configuration-ms](https://github.com/rappiinc/rpp-auto-configuration-ms): Manage general configurations related with Slack & TM4J.
 
+
+**Micro Front Repository** 
+ 
+- [rpp-eva-auto-qa-mf](https://github.com/rappiinc/rpp-eva-auto-qa-mf): Micro front to manage Autumn API 
+
+**Agent** 
+- [rpp-automation-agent](https://github.com/rappiinc/rpp-automation-agent): Desktop App to make mobile devices available in the Distributed Farm Hub. 
+
+**Shopay Repositories**
+- [rpp-shopay-ms](https://github.com/rappiinc/rpp-shopay-ms): Backend Ms to generate the Automation QA Projects Scaffolding & create Git Repositories. 
+- [rpp-shopay-mf](https://github.com/rappiinc/rpp-shopay-mf):  Micro Frontend to generate the Automation QA Projects Scaffolding & create Git Repositories
 
 
 **Libraries Repositories**
